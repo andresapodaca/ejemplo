@@ -16,7 +16,7 @@ $result = $conn->query($sql);
 <html lang="en">
 
 <head>
-    <title>Pagina principal</title>
+    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
